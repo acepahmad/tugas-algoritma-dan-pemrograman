@@ -6,3 +6,10 @@ Jurusan : TIFK 16 <br>
 Matkul  : Algoritma & Pemrograman <br>
 
 <h3>List Project: </h3><br>
+<ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ul>
