@@ -5,11 +5,16 @@ NIM     : 16111281 <br>
 Jurusan : TIFK 16 <br>
 Matkul  : Algoritma & Pemrograman <br>
 
-<h3>List Project: </h3><br>
-<ul>
+<h3>List Project: </h3>
+<ol>
  <li></li>
  <li></li>
  <li></li>
  <li></li>
  <li></li>
-</ul>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+</ol>
