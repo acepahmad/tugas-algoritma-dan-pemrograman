@@ -1,6 +1,6 @@
 #include <iostream>
 // Program Kalkulator (Aritmatika dan Relasional)
-// I.S Program Meng-input/Memasukan Angka dan Mengolah Data
+// I.S Program Meng-input / Memasukan Angka dan Mengolah Data
 // F.S Program Menampilkan Hasil Perhitungan Angka 
 
 using namespace std;
