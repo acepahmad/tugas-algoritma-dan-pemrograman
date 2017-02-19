@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+	
     // Variable Data
 	char str[] = "hello c++"; // buat variable str dengan type car
 	
