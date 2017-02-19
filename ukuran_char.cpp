@@ -6,6 +6,7 @@
 using namespace std;
 
 int main(){
+    
     // Menampilkan Ukuran Data
     // Syntax siseof untuk mengetahui ukuran data 
    cout << "Ukuran Char : " << sizeof (char) << endl;
