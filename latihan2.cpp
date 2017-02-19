@@ -6,6 +6,7 @@
 using namespace std;
 
 int main() {
+	
 	char name[900]; // Batasan Jumlah Character dalam 1 Kalimat [900]
 	
     //Sysntax Untuk Menampilakn data
