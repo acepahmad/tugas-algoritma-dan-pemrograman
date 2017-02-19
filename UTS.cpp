@@ -12,7 +12,6 @@ int kali (int a, int b);
 int bagi1 (int a, int b);
 int bagi2 (int a, int b);
     
-    
 int main () {
 
         // Kamus    
