@@ -37,15 +37,19 @@ main(){
 }
 
 // Rumus
+// Fungsi Tambah
 int hasilTambah(int a, int b){
     return a + b;
 }
+// Fungsi Kurang
 int hasilKurang(int a, int b){
     return a - b;
 }
+// Fungsi Kali
 int hasilKali(int a, int b){
     return a * b;
 }
+// Fungsi Bagi
 int hasilBagi(int a, int b){
     return a / b;
 }
