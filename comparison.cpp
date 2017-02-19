@@ -6,6 +6,7 @@
 using namespace std;
 
 main(){
+    
     // Rumus
     // Variable Data
     int a = 21;
