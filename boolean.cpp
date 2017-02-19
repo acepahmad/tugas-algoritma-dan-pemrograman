@@ -13,7 +13,7 @@ int main() {
 	int c;
 
     // Syntax untuk mencari nila TRUE & FALSE
-
+	
     // jika a dan b sama maka TRUE
 	if(a && b){ 
 		cout << "TRUE" << endl; 
