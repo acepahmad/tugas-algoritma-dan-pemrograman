@@ -5,7 +5,6 @@
 // F.S Program menampilkan hasil data
 using namespace std;
 
-
 int main(){
     // Batasan Karakter Dalam Suatu Teks
     char data[100];
