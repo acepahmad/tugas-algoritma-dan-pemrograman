@@ -6,7 +6,6 @@
 // F.S Program Menampilkan Data
 using namespace std;
 
-
 // Swap.cpp
 int main (){
     // Rumus
