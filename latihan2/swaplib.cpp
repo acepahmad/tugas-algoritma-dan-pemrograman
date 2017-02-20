@@ -2,6 +2,7 @@
 
 // Fungsi Swap
 void swap(int x, int y){
+    
     // Rumus
     int temp;
         // Variabe Data
