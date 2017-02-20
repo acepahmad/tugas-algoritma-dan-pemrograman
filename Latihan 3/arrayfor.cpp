@@ -2,7 +2,7 @@
 using namespace std;
 // Program Fungsi Array For
 // I.S Program mengolah angka
-// F.S Program Menampilkan data
+// F.S Program Menampilkan Pengulangan Data
 int main() {
     // Rumus
     int n[ 10 ];
