@@ -24,7 +24,6 @@ void print(string c){
 // Rumus
 // Variable Data
 int main(void){
-
     print(5);
     print(500.263);
     print("Hello C++");
