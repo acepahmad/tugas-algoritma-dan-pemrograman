@@ -24,8 +24,6 @@ public:
 
 };
 
-
-
 // Rumus
 // Variable Data
 int main(void){
